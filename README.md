@@ -1,5 +1,4 @@
-# Algo3CorsiEssaya
-## Algoritmos y Programación III - Cátedra Corsi-Essaya
+# Algoritmos y Programación III - Cátedra Corsi-Essaya
 
 ### Cuatrimestre de Cursada
 2° Cuatrimestre 2023
